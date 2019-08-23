@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-213v-si7021-digital-i2c",
+  "title": "gy-213v-si7021-digital-i2c",
+  "keywords": "gy-213v-si7021-digital-i2c, esp32, esp8266, arduino",
+  "description": "gy-213v-si7021-digital-i2c plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-213v-si7021-digital-i2c/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-213v-si7021-digital-i2c/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
